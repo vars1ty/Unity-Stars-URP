@@ -1,4 +1,4 @@
-# Unity-Stars-URP
+# Unity Stars URP
 Super basic stars made in an Unlit Shadergraph for Unity URP
 ## Exposed Properties
 | Exposed Name | Property Name | Type       |
